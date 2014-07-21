@@ -1,0 +1,13 @@
+{
+  "name": "crLocalStorage",
+  "description": "localStorage service for angular",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Fearful/crLocalStorage",
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-loader": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "html5-boilerplate": "~4.3.0"
+  }
+}
